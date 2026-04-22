@@ -1,4 +1,4 @@
-# Pipefy Real Case Scenarios – Frank 🚀🐷
+# Pipefy Real Case Scenarios – Frank 🚀🤖
 
 [![Python](https://img.shields.io/badge/Python-3.14-blue?logo=python)](https://www.python.org/) 
 [![Flask](https://img.shields.io/badge/Flask-2.3-orange?logo=flask)](https://flask.palletsprojects.com/) 
@@ -25,7 +25,7 @@ Frank surgiu assim:
 - **Solução artesanal:** Python + Flask + Ngrok + scripts que pegam CEP, consultam ViaCep e preenchem o card  
 - **Resultado:** automação confiável, gratuita, escalável — sem depender de R$100+/mês de Zapier/N8N  
 
-> Pequeno, mas já mais esperto que o limite free do Pipefy! 🐷💪
+> Pequeno, mas já mais esperto que o limite free do Pipefy! 💪🤖
 
 ---
 
@@ -38,7 +38,7 @@ Frank surgiu assim:
 - **Scripts modulares:** `automacao.py`, `pipefy.py`, `pipefy_update.py`, `webhook.py`  
 
 <details>
-<summary>Como Frank pensa 🤓</summary>
+<summary>Como Frank pensa 🤖</summary>
 
 1. Recebe evento de card via **webhook**  
 2. Verifica dados faltantes (CEP, endereço, etc.)  
@@ -70,7 +70,7 @@ python webhook.py
 ```bash
 ngrok http 5000
 ```
-6. Observe Frank preenchendo CEPs, otimizando chamadas e dominando cards 😎  
+6. Observe Frank preenchendo CEPs, otimizando chamadas e dominando cards 🤖  
 
 > ⚠️ GitHub Pages não roda Python/Flask. Pages é só para documentação ou front-end estático.
 </details>
@@ -81,7 +81,7 @@ ngrok http 5000
 
 - **Nunca** commitar tokens ou credenciais  
 - Use variáveis de ambiente  
-- Frank é poderoso, mas não é hacker… ainda 😅  
+- Frank é poderoso, mas não é hacker… ainda 🤖  
 
 ---
 
@@ -103,4 +103,4 @@ ngrok http 5000
 
 ---
 
-> 🐷💻 Esse foi meu primeiro exercício em Python — Frank, a engine caseira que nasceu pequena, mas promete dominar workflows! 🚀
+> 🤖💻 Esse foi meu primeiro exercício em Python — Frank, a engine caseira que nasceu pequena, mas promete dominar workflows! 🚀
